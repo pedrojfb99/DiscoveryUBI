@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "397041460954",
+    "firebase_url": "https://discoveryubi.firebaseio.com",
+    "project_id": "discoveryubi",
+    "storage_bucket": "discoveryubi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397041460954:android:1221c8af2f34c1d0fce7e3",
+        "android_client_info": {
+          "package_name": "com.example.discoveryubi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397041460954-ba6p8poa47a5ie5dvd346mromtkuqleh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.discoveryubi",
+            "certificate_hash": "0874089eb47f17a926b49a170a47c4387a2e1049"
+          }
+        },
+        {
+          "client_id": "397041460954-mrra74to5s85v4jpohrp4von24dfmk7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ee2vgUaDN1c7as10No5Cs19G3sZeBWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397041460954-mrra74to5s85v4jpohrp4von24dfmk7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
